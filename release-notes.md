@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2022
-lastupdated: "2022-10-27"
+lastupdated: "2022-11-28"
 
 keywords: app connect release notes
 
@@ -20,6 +20,13 @@ content-type: release-note
 
 Use these release notes to learn about the latest updates to {{site.data.keyword.appconservicefull}}.
 {: shortdesc}
+
+## 23 November 2022
+{: #subcollection-nov2322}
+{: release-note}
+
+Security fixes
+:   Security patches
 
 ## 14 October 2022
 {: #subcollection-oct1422}
