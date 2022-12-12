@@ -21,6 +21,13 @@ content-type: release-note
 Use these release notes to learn about the latest updates to {{site.data.keyword.appconservicefull}}.
 {: shortdesc}
 
+## 12 December 2022
+{: #subcollection-dec2322}
+{: release-note}
+
+Service plans for {{site.data.keyword.appconservicefull}} have been deprecated, and any instances of {{site.data.keyword.appconnect_notm}} plans that still exist on 30 November 2023 will be deleted. 
+For more information, see [Deprecation of IBM App Connect on IBM Cloud service plans](deprecation_of_ibm_cloud_foundry.md)
+
 ## 23 November 2022
 {: #subcollection-nov2322}
 {: release-note}

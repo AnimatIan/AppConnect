@@ -30,6 +30,9 @@ completion-time: 10m
 {: toc-content-type="tutorial"}
 {: toc-completion-time="10m"}
 
+{: #deprecation}
+Service plans for {{site.data.keyword.appconservicefull}} have been deprecated, and any instances of {{site.data.keyword.appconnect_notm}} plans that still exist on 30 November 2023 will be deleted. To continue using IBM App Connect, you should migrate to an alternative provision. For more information, see [Deprecation of IBM App Connect on IBM Cloud service plans](deprecation_of_ibm_cloud_foundry.md) {: deprecated}
+
 In this getting started tutorial, we'll take you through how to use {{site.data.keyword.appconservicefull}} to create an event driven flow that will take you about 10 minutes to implement.
 {: shortdesc}
 
@@ -85,4 +88,4 @@ If you return to the {{site.data.keyword.appconnect_notm}} dashboard, you can se
 
 - For more detailed instructions, how-to guides for specific applications, tutorials, and videos, see the full set of documentation at [IBM App Connect ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/docs/en/app-connect/cloud).
 - For more information about how to create an event-driven flow, see [Creating an event-driven flow ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/docs/en/app-connect/cloud?topic=connect-creating-event-driven-flow).
-- To follow a tutorial for a typical event-driven flow, see [Creating a ServiceNow incident and sending an email when a Wufoo form is submitted ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/docs/en/app-connect/cloud?topic=tac-creating-servicenow-incident-sending-email-when-wufoo-form-is-submitted).
+- To follow a tutorial for a typical event-driven flow, see [Creating a ServiceNow incident and sending an email when a Wufoo form is submitted ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/docs/en/app-connect/cloud?topic=td-creating-servicenow-incident-sending-email-when-wufoo-form-is-submitted).

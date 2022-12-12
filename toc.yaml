@@ -22,6 +22,7 @@ toc:
       topics:
       - getting-started.md
       - release-notes.md
+      - deprecation_of_ibm_cloud_foundry.md
 
   - navgroup:
       id: tutorial
